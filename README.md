@@ -1,5 +1,3 @@
-# Stark-Company.github.io
-Party a tema by Stark Company
 <!DOCTYPE html>
 <html lang="en">
   <head>
